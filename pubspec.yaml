@@ -1,0 +1,31 @@
+name: projectone
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  image_picker: ^1.1.2
+  tflite_flutter: ^0.11.0
+  image: ^4.1.3
+  supabase_flutter: any
+  image_cropper: ^12.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: any
+
+flutter:
+  uses-material-design: true
+
+  # ตรงนี้คือการนำเข้าไฟล์ AI Model ของคุณ
+  assets:
+    - assets/skin_disease_model.tflite
+    - assets/class_indices.json
