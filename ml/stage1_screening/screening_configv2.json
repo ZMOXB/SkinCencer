@@ -1,0 +1,15 @@
+{
+    "model_architecture": "EfficientNet-B0",
+    "input_shape": [
+        224,
+        224,
+        3
+    ],
+    "class_indices": {
+        "Normal": 0,
+        "Disease": 1
+    },
+    "standard_threshold": 0.5,
+    "suggested_safety_threshold": 0.44,
+    "test_auc": 0.9857918263090677
+}

@@ -46,3 +46,24 @@ app.*.map.json
 
 # Helper scripts
 push_to_github.bat
+
+# Python & AI/ML
+__pycache__/
+*.py[cod]
+*$py.class
+*.keras
+*.h5
+.venv/
+venv/
+ENV/
+env/
+.gradio/
+
+# Datasets (large image files)
+dataset/
+master_dataset/
+dataset_screening/
+Normaldata/
+Normal_Skin/
+Normal_Skin_*/
+test_crop_output/

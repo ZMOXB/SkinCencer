@@ -1,0 +1,2195 @@
+=== รายชื่อ Path ภาพรอยโรคที่ถูกเลือกมาใช้เทรน (รวม 2,160 ภาพ) ===
+สุ่มจาก master_dataset โรคละ 270 ภาพ (Random Seed: 42)
+
+----------------------------------------------------------------------
+📁 คลาส: Actinic Keratosis (จำนวน 270 ภาพ)
+----------------------------------------------------------------------
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0011477.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0011552.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0011609.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0012153.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0012262.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0012280.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0012295.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0012438.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0012439.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0012477.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0012755.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0012815.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0013276.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0013351.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0013441.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0013514.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0013605.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0013902.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0013914.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0014167.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0014234.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0014706.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0015610.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0021033.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0021109.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0021241.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0021483.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0021539.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0021552.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0021749.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0022171.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0022260.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0022292.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0022293.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0022296.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0022723.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0023095.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0023126.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0023143.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0023155.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0023193.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0023227.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0023550.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0023567.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0023652.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0023850.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0023851.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0024048.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0024165.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0026625.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0027615.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0027958.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0028393.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0028619.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0030133.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0031430.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0031506.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0031823.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0031922.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0032199.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0032422.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0033494.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0053538.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0053764.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0054359.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0054447.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0054594.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0054687.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0055596.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0055932.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0056037.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0056176.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0056745.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0057022.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0057431.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0057455.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0057477.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0057499.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0057929.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0057986.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0057995.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0058273.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0058404.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0058494.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0058756.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0058902.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0059031.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0059087.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0059139.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0059401.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0059662.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0060078.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0060273.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0060354.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0060546.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0060706.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0060729.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0060733.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0061193.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0061298.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0061365.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0061396.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0061499.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0061588.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0062036.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0062159.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0062611.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0062622.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0062743.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0062896.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0062940.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0063322.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0063331.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0063435.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0064076.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0064222.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0064322.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0064526.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0064587.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0065120.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0065271.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0066082.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0066180.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0066360.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0066395.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0066464.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0066512.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0066586.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0066720.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0066903.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0067142.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0067177.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0067218.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0067304.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0067425.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0067522.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0067698.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0067799.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0067945.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0068092.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0068232.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0068395.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0068722.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0068852.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0069211.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0069483.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0070302.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0070305.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0070311.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0070462.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0070507.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0071065.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0071698.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0071889.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0071953.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0071982.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0072152.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0072169.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0072352.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0072676.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0072992.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0073042.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0073157.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0073198.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0391310.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0395316.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0463225.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0544294.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0840284.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_0948938.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_1076605.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_1160464.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_1188975.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_1393731.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_1445820.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_1473863.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_1530901.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_1870099.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_1980216.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_2140182.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_2266309.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_2321240.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_2365013.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_2485116.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_2514955.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_2518399.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_2632415.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_2999920.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_3009842.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_3114203.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_3130870.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_3431002.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_3473070.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_3525020.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_3539937.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_3682535.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_3765576.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_3817020.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_3825711.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_3928650.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_4038015.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_4077337.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_4247737.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_4317366.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_4440503.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_4546911.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_4569524.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_4799857.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_4817412.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_4854995.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_4911256.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_4925938.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_5008132.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_5023271.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_5246873.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_5290918.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_5293837.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_5308294.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_5438818.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_5483404.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_5576221.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_5607257.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_5664918.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_5794353.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_5864600.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_5864958.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_6065584.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_6168336.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_6176547.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_6218940.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_6231129.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_6256195.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_6314857.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_6406540.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_6499831.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_6546439.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_6594963.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_7149917.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_7178397.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_7268223.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_7515001.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_7530224.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_7635285.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_7671115.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_7890920.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_7959545.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_8168811.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_8204527.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_8296805.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_8299432.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_8502375.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_8682435.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_8786035.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_8861691.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_8960524.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_9127059.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_9129115.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_9142737.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_9152345.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_9183026.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_9268987.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_9417678.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_9442868.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_9477128.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_9490027.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_9499848.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_9542991.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_9667937.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_9730737.jpg
+C:\pycham\Projectjob\master_dataset\Actinic Keratosis\ISIC_9796445.jpg
+
+----------------------------------------------------------------------
+📁 คลาส: BCC (จำนวน 270 ภาพ)
+----------------------------------------------------------------------
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0024345.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0024432.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0024443.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0024448.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0024984.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0025266.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0025557.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0025576.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0025718.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0025824.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0026321.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0026350.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0026453.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0026528.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0026656.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0026957.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0026978.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0027120.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0027473.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0027631.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0027744.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0028122.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0028670.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0028671.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0028765.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0028858.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0028937.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0029230.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0029323.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0029352.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0029951.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0030197.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0030778.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0030782.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0030964.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0031007.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0031041.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0031140.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0031266.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0031513.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0031552.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0031789.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0032030.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0032194.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0032384.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0032429.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0032727.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0032808.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0033609.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0053474.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0053483.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0053500.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0053626.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0053863.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0054121.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0054169.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0054343.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0054370.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0054665.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0054674.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0054773.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0054972.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0055050.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0055111.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0055209.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0055221.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0055266.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0055271.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0055323.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0055441.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0055510.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0055641.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0055718.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0055744.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0055748.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0055768.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0055893.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0055961.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0056014.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0056099.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0056144.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0056205.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0056411.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0056486.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0056547.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0056607.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0056640.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0056681.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0056766.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0056950.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0057057.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0057263.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0057442.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0057551.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0057587.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0057627.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0057662.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0057801.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0057853.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0057915.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0057977.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0058025.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0058039.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0058128.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0058220.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0058223.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0058389.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0058553.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0058567.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0058573.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0058651.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0058687.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0058689.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0058774.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0058833.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0058842.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0058878.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0058883.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0059227.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0059320.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0059329.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0059592.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0059642.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0059657.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0059688.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0059724.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0059742.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0059746.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0059811.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0059917.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0059961.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0060007.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0060053.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0060081.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0060109.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0060120.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0060180.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0060267.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0060314.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0060370.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0060392.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0060512.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0060576.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0060602.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0060662.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0060803.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0060927.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0060928.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0060984.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0061020.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0061097.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0061110.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0061157.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0061328.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0061497.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0061696.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0061740.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0061861.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0061862.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0061864.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0061889.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0061955.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0062108.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0062544.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0062683.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0062710.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0062799.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0062915.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0062927.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0062967.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0063059.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0063097.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0063205.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0063375.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0063458.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0063479.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0063754.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0063860.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0063892.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0063999.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0064019.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0064162.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0064661.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0064751.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0064841.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0064898.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0065021.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0065047.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0065082.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0065249.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0065345.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0065384.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0065385.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0065481.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0065605.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0065662.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0065790.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0065805.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0066292.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0066337.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0066406.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0066431.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0066696.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0066820.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0066922.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0067021.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0067063.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0067103.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0067241.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0067272.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0067302.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0067305.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0067312.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0067346.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0067492.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0067499.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0067681.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0067818.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0067997.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0068021.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0068038.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0068068.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0068169.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0068287.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0068611.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0068632.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0068716.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0068856.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0068898.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0068957.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0069032.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0069047.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0069203.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0069272.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0069301.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0069696.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0069701.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0069807.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0069828.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0069926.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0070057.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0070086.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0070128.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0070165.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0070665.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0070700.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0070953.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0071056.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0071223.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0071294.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0071565.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0071715.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0071743.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0071758.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0071846.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0072267.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0072359.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0072465.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0072511.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0072515.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0072602.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0072605.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0072610.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0072660.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0072670.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0072701.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0072880.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0073037.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0073148.jpg
+C:\pycham\Projectjob\master_dataset\BCC\ISIC_0073154.jpg
+
+----------------------------------------------------------------------
+📁 คลาส: Keratosis (จำนวน 270 ภาพ)
+----------------------------------------------------------------------
+C:\pycham\Projectjob\master_dataset\Keratosis\196_1_40.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\1_11.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\1_32.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\3_8.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\7_14.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0010834.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0010872.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0010990.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0011130.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0024643.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0024676.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0024981.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0025038.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0025103.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0025374.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0025392.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0025431.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0025485.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0025507.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0025879.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0025883.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0026769.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0027355.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0027367.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0027394.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0027713.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0028449.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0028496.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0028707.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0029012.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0029102.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0029233.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0029249.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0029251.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0029260.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0030160.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0030488.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0030683.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0030698.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0030768.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0030926.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0031133.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0031349.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0031362.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0031519.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0031528.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0031633.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0031819.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0032013.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0032031.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0032063.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0032128.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0032179.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0032514.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0032826.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0032963.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0032967.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0033127.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0033185.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0033212.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0033284.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0033646.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0033677.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0034007.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0034031.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0034167.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0034168.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0034235.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0034291.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0053865.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0053932.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0054724.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0055415.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0055602.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0055627.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0055800.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0055955.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0056515.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0056882.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0057062.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0057160.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0057329.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0057636.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0057798.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0057904.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0058041.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0058056.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0058101.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0058212.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0058888.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0058990.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0059110.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0059620.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0059935.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0060013.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0060105.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0060482.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0060523.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0060579.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0060606.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0061089.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0061321.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0061536.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0061640.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0061785.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0061980.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0062009.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0062055.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0062587.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0062884.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0062968.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0062999.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0063237.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0063818.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0064025.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0064188.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0064567.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0064793.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0064826.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0064883.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0065291.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0065764.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0066021.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0066108.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0066455.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0066857.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0066925.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0067273.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0067557.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0067599.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0068398.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0068467.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0068599.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0069304.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0069406.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0069623.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0069875.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0069877.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0069965.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0070084.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0070503.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0070540.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0071087.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0071241.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0071326.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0071502.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0071828.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0071900.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0072057.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0072782.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0072901.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0073050.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0073060.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\ISIC_0073228.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-20CystClearFluid.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-accessory-nipple-3.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-accessory-trachus-2.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-accessory-trachus-5.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-chondrodermatitis-nodularis-19.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-chondrodermatitis-nodularis-21.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-chondrodermatitis-nodularis-34.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-chondrodermatitis-nodularis-35.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-chondrodermatitis-nodularis-37.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-chondrodermatitis-nodularis-5.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-chondrodermatitis-nodularis-57.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-chondrodermatitis-nodularis-77.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-dermatofibroma-15.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-dermatofibroma-24.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-dermatofibroma-34.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-dermatofibroma-54.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-dermatofibroma-91.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-dermatofibroma-97.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-dermatosis-papulosa-nigra-5.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-dermatosis-papulosa-nigra-6.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-epidermal-cyst-102.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-epidermal-cyst-111.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-epidermal-cyst-88.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-epidermal-cyst-92.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-epidermal-nevus-63.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-keloids-12.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-keloids-60.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-keloids-80.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-keratoacanthoma-116.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-keratoacanthoma-148.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-keratoacanthoma-15.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-keratoacanthoma-150.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-keratoacanthoma-161.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-keratoacanthoma-184.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-keratoacanthoma-192.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-keratoacanthoma-79.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-keratoacanthoma-95.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-leiomyomata-1.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-neurofibromas-10.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-neurofibromas-2.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-nevus-sebaceous-10.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-nevus-sebaceous-13.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-nevus-sebaceous-25.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-nevus-sebaceous-37.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-nevus-sebaceous-50.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-pilar-cyst-36.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-porokeratosis-10.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-porokeratosis-15.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-porokeratosis-29.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-porokeratosis-38.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-porokeratosis-56.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-sebaceous-hyperplasia-46.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-sebaceous-hyperplasia-48.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-sebaceous-hyperplasia-6.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-sebaceous-hyperplasia-72.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-sebaceous-hyperplasia-79.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-sebaceous-hyperplasia-93.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratoses-ruff-128.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratoses-ruff-136.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratoses-ruff-153.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratoses-ruff-181.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratoses-ruff-192.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratoses-ruff-194.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratoses-ruff-94.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratoses-ruff-99.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratoses-smooth-111.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratoses-smooth-117.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratoses-smooth-14.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratoses-smooth-22.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratoses-smooth-27.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratoses-smooth-28.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratoses-smooth-56.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratoses-smooth-69.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratoses-smooth-70.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratoses-smooth-86.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratoses-smooth-98.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratosis-irritated-106.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratosis-irritated-112.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratosis-irritated-160.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-seborrheic-keratosis-irritated-95.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-skin-tags-polyps-146.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-skin-tags-polyps-31.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-skin-tags-polyps-39.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-skin-tags-polyps-4.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-skin-tags-polyps-40.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-skin-tags-polyps-85.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-skin-tags-polyps-98.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-stucco-keratoses-24.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-stucco-keratoses-50.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-stucco-keratoses-58.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-syringoma-29.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\t-syringoma-41.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-dermatofibroma-106.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-dermatofibroma-117.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-dermatofibroma-82.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-epidermal-cyst-14.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-epidermal-cyst-142.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-epidermal-cyst-156.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-epidermal-cyst-175.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-epidermal-nevus-14.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-epidermal-nevus-5.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-hydrocystoma-3.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-keratoacanthoma-151.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-nevus-sebaceous-40.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-nevus-sebaceous-51.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-pinkus-tumor-3.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-sebaceous-hyperplasia-12.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-seborrheic-keratoses-ruff-80.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-seborrheic-keratoses-smooth-121.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-seborrheic-keratoses-smooth-76.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-seborrheic-keratosis-irritated-81.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-skin-tags-polyps-23.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-skin-tags-polyps-26.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-skin-tags-polyps-27.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-skin-tags-polyps-66.jpg
+C:\pycham\Projectjob\master_dataset\Keratosis\v-stucco-keratoses-20.jpg
+
+----------------------------------------------------------------------
+📁 คลาส: Melanocytic Nevi (จำนวน 270 ภาพ)
+----------------------------------------------------------------------
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0000019_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0000032_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0000079_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0000083.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0000097.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0000098_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0000200.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0000204_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0000223.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0000246.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0000267.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0000354.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0000365.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0000389.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0000492.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0000503.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0000882_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0001204_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0004309_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0006815_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0007087_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0009877.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0009879.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0009895.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0009912.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0009941.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0009945.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0009949.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0010204.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0010206.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0010496.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0010512.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0011212.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0011324.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0011361.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0011373.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0012159_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0012325_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0012335_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0012495_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0012941_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0013045_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0013071_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0013220_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0013244_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0013330_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0013405_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0013432_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0013437_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0013526_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0013689_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0013896_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0014004_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0014094_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0014150_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0014164_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0014665_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0014762_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0014765_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0014768_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0014833_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0014943_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0014945_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0015037_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0015160_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0015179_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0015355_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0015372_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0015946_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0015954_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0016011_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0016022_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0016025_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0016031_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0016035_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0016046_downsampled.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0024342.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0024344.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0024388.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0024417.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0024430.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0024447.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0024509.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0024523.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0024559.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0024563.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0024827.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0024944.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0024969.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0025049.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0025158.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0025355.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0025377.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0025429.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0025462.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0025580.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0025582.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0025614.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0025657.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0025730.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0025840.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0025855.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0025861.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0025992.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0026022.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0026029.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0026114.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0026121.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0026143.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0026182.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0026232.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0026386.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0026472.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0026503.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0026504.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0026536.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0026550.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0026692.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0026700.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0026719.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0026752.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0026883.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0026911.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0026939.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0026948.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0027092.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0027128.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0027223.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0027299.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0027340.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0027386.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0027413.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0027429.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0027446.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0027476.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0027530.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0027549.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0027567.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0027571.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0027758.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0027773.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0027842.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0027911.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0027919.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0027925.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0027985.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028027.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028064.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028083.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028138.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028151.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028189.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028234.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028246.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028277.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028466.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028480.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028553.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028569.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028594.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028613.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028647.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028689.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028690.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028782.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028861.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028868.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028908.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028914.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0028954.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0029045.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0029064.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0029133.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0029138.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0029191.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0029207.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0029218.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0029275.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0029325.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0029403.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0029422.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0029521.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0029629.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0029706.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0029719.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0029734.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0029876.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0029939.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0029990.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0029993.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030071.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030078.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030087.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030109.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030139.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030151.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030186.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030257.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030262.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030364.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030384.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030385.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030392.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030553.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030599.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030658.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030666.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030715.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030720.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030728.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030802.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030816.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030880.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030904.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030906.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0030922.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031051.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031082.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031267.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031281.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031328.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031363.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031397.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031422.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031462.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031473.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031486.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031509.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031516.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031546.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031635.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031685.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031737.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031744.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031786.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031796.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031822.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031914.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031970.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031973.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0031994.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032000.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032028.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032077.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032153.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032193.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032195.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032208.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032231.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032254.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032263.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032357.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032411.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032412.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032474.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032549.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032621.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032661.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032746.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032747.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032760.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032795.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032811.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032813.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032819.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0032943.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0033016.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0033066.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0033082.jpg
+C:\pycham\Projectjob\master_dataset\Melanocytic Nevi\ISIC_0033095.jpg
+
+----------------------------------------------------------------------
+📁 คลาส: Melanoma (จำนวน 270 ภาพ)
+----------------------------------------------------------------------
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_0000304.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_0000413.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_0000414.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_0000466.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_0001134.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_0009868.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_0010174.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_0010372.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_0010398.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_0010579.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_0010610.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_0010714.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_0010862.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_0011030.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6665515.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6669480.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6676345.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6680873.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6714248.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6715805.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6725760.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6742185.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6750759.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6753364.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6765909.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6783285.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6786974.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6788130.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6808968.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6809329.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6817405.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6824842.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6839610.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6840388.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6841294.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6851030.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6851408.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6854940.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6890421.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6895016.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6913638.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6926118.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6926620.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6934041.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6934907.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6937199.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6947576.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6964033.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_6964131.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7012349.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7021739.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7037032.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7043443.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7056620.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7063629.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7065522.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7068021.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7069158.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7071594.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7079349.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7092287.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7095248.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7104110.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7107071.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7108282.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7140778.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7155873.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7167811.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7168543.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7178890.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7183212.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7185436.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7218890.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7229357.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7234197.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7239245.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7248566.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7255637.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7260492.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7266571.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7271718.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7274397.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7275674.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7286958.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7332868.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7333928.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7344356.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7365445.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7371801.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7380175.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7382357.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7386891.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7391454.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7391660.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7397129.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7408485.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7432430.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7450481.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7454116.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7457750.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7465237.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7466101.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7478025.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7478859.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7486061.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7502551.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7511011.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7514880.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7530414.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7533334.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7546480.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7550852.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7555016.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7562708.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7564217.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7564393.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7564545.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7574405.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7578212.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7578547.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7578777.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7585924.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7587513.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7595416.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7605547.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7617445.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7619734.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\ISIC_7621283.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5098.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5141.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5149.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5153.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5211.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5222.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5266.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5278.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5310.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5324.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5342.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5372.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5379.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5407.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5422.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5472.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5480.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5491.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5501.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5506.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5553.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5569.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5616.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5662.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5703.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5780.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5793.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5862.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5885.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5890.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5902.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5909.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5913.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_5967.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6058.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6059.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6064.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6126.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6134.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6156.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6195.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6239.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6304.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6318.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6427.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6451.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6492.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6516.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6563.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6587.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6588.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6591.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6623.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6661.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6715.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6771.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6792.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6903.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6934.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6937.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6949.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6965.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6966.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_6973.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7001.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7035.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7113.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7185.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7203.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7220.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7248.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7265.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7267.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7402.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7416.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7479.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7488.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7541.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7567.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7591.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7609.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7754.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7822.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7847.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7903.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7943.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_7985.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8006.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8015.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8074.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8076.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8082.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8092.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8108.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8110.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8113.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8136.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8174.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8181.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8206.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8232.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8332.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8347.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8376.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8386.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8445.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8473.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8475.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8499.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8527.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8585.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8586.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8604.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8640.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8653.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8666.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8781.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8814.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8823.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8893.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8907.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8911.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8924.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8950.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_8978.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_9008.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_9033.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_9080.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_9085.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_9127.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_9143.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_9147.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_9154.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_9208.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_9264.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_9293.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_9354.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_9357.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_9489.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_9494.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_9516.jpg
+C:\pycham\Projectjob\master_dataset\Melanoma\melanoma_9579.jpg
+
+----------------------------------------------------------------------
+📁 คลาส: Psoriasis (จำนวน 270 ภาพ)
+----------------------------------------------------------------------
+C:\pycham\Projectjob\master_dataset\Psoriasis\0_2.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\10_17.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\10_3.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\11_37.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\12_1.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\12_21.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\12_5.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\13_0.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\13_20.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\13_22.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\13_31.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\14_18.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\14_20.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\14_21.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\15_19.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\15_20.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\15_24.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\15_38.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\15_53.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\15_57.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\16_23.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\16_38.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\16_39.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\17_1.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\18_11.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\18_30.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\18_37.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\18_48.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\19_16.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\1_28.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\1_4.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\1_41.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\1_51.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\1_58.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\2_5.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\6_2.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\7_11.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\7_13.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\8_37.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\9_4.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-08PsoriasisIntertrigo1006.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-08SebDermCradleCap.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-08SebDermScalp0120.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-08SebDermScalp1223.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-08psoriasisIntertrig020606.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-08sebKerm11220467.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-3Eczema3-009.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Axillary-Granular-Parakeratosis-2.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Axillary-Granular-Parakeratosis-5.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Axillary-Granular-Parakeratosis-8.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Planus-Drug-17.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Planus-Drug-2.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Planus-Drug-23.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Planus-Drug-24.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Planus-Drug-3.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Planus-Hypertrophic-13.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Planus-Hypertrophic-14.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Planus-Hypertrophic-4.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Planus-Hypertrophic-9.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Planus-Oral-26.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Planus-Oral-29.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Planus-Oral-6.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Planus-Oral-7.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Planus-Palm-Soles-2.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Planus-Penis-11.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Sclerosis-Vulva-19.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Sclerosis-Vulva-40.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Sclerosis-Vulva-7.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Sclerosis-Vulva-8.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Sclerosus-Penis-23.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Sclerosus-Penis-31.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Sclerosus-Skin-100.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Sclerosus-Skin-126.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Sclerosus-Skin-129.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Sclerosus-Skin-132.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Sclerosus-Skin-30.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Sclerosus-Skin-36.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Sclerosus-Skin-46.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Sclerosus-Skin-6.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Sclerosus-Skin-62.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Sclerosus-Skin-66.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Sclerosus-Skin-7.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Lichen-Sclerosus-Skin-70.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Palmoplantar-Keratoderma-3.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Palmoplantar-Keratoderma-4.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Pityriasis-Lichenoides-11.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Pityriasis-Lichenoides-15.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Pityriasis-Lichenoides-37.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Pityriasis-Lichenoides-40.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Pityriasis-Lichenoides-7.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Anus-12.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Anus-9.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Chronic-Plaque-130.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Chronic-Plaque-136.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Chronic-Plaque-138.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Chronic-Plaque-144.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Chronic-Plaque-145.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Chronic-Plaque-15.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Chronic-Plaque-150.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Chronic-Plaque-180.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Chronic-Plaque-189.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Chronic-Plaque-190.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Chronic-Plaque-195.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Chronic-Plaque-92.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Chronic-Plaque-94.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Chronic-Plaque-97.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Guttate-120.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Guttate-18.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Guttate-51.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Guttate-72.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Guttate-77.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Guttate-83.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Hand-2.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Hand-23.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Hand-36.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Hand-38.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Hand-51.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Hand-59.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Hand-6.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Hand-60.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Hand-9.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Histology-13.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Histology-16.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Histology-21.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Interferon-Injection-08230425.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Light-Sensative-4.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-Trunk-052504.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-infant-2.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-infant-3.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-inversus-19.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-inversus-2.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-inversus-22.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-inversus-24.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-inversus-26.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-inversus-5.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-inversus-8.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-nails-11.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-nails-22.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-nails-25.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-nails-28.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-nails-29.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-penis-21.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-penis-24.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-penis-27.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-penis-3.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-penis-7.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-Psoriasis-treatment-6.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-lichen-planus-12.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-lichen-planus-120.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-lichen-planus-124.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-lichen-planus-134.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-lichen-planus-135.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-lichen-planus-161.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-lichen-planus-167.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-lichen-planus-169.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-lichen-planus-195.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-pityriasis-rosea-100.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-pityriasis-rosea-117.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-pityriasis-rosea-13.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-pityriasis-rosea-133.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-pityriasis-rosea-148.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-pityriasis-rosea-181.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-pityriasis-rosea-196.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-pityriasis-rosea-81.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-pityriasis-rosea-82.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-pityriasis-rosea-99.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-pityriasis-rubra-pilaris-10.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-pityriasis-rubra-pilaris-12.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-pityriasis-rubra-pilaris-17.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-pityriasis-rubra-pilaris-42.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-pityriasis-rubra-pilaris-50.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-pityriasis-rubra-pilaris-51.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-pityriasis-rubra-pilaris-59.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-digits-3.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-erythrodermic-29.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-erythrodermic-36.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-erythrodermic-37.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-erythrodermic-39.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-erythrodermic-4.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-palms-soles-110.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-palms-soles-115.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-palms-soles-119.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-palms-soles-121.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-palms-soles-131.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-palms-soles-148.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-palms-soles-156.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-palms-soles-159.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-palms-soles-173.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-palms-soles-178.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-palms-soles-180.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-palms-soles-181.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-palms-soles-187.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-palms-soles-19.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-palms-soles-97.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-pustular-generalized-24.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-pustular-generalized-41.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-pustular-generalized-49.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-pustular-generalized-59.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-pustular-generalized-62.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-pustular-generalized-63.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-pustular-generalized-66.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-scalp-107.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-scalp-20.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-scalp-26.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-scalp-31.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-scalp-49.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-scalp-50.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-scalp-68.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-scalp-76.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-psoriasis-scalp-88.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-reiter-syndrome-10.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-seborrheic-dermatitis-119.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-seborrheic-dermatitis-13.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-seborrheic-dermatitis-139.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-seborrheic-dermatitis-147.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-seborrheic-dermatitis-148.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-seborrheic-dermatitis-8.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\t-seborrheic-dermatitis-99.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-Lichen-Planus-Drug-28.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-Lichen-Planus-Oral-45.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-Lichen-Sclerosis-Vulva-13.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-Lichen-Sclerosis-Vulva-15.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-Lichen-Sclerosis-Vulva-5.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-Lichen-Sclerosus-Skin-112.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-Lichen-Sclerosus-Skin-26.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-Lichen-Sclerosus-Skin-34.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-Lichen-Sclerosus-Skin-43.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-Lichen-Sclerosus-Skin-53.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-Psoriasis-Chronic-Plaque-131.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-Psoriasis-Chronic-Plaque-159.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-Psoriasis-Guttate-105.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-Psoriasis-Guttate-117.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-Psoriasis-Guttate-55.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-Psoriasis-Guttate-65.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-Psoriasis-Hand-44.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-Psoriasis-Histology-4.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-Psoriasis-Interferon-Injection-08230423.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-Psoriasis-inversus-18.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-Psoriasis-nails-10.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-lichen-planus-10.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-lichen-planus-117.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-lichen-planus-129.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-lichen-planus-159.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-lichen-planus-83.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-pityriasis-rosea-116.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-pityriasis-rosea-135.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-pityriasis-rosea-143.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-pityriasis-rosea-146.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-pityriasis-rosea-161.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-pityriasis-rosea-189.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-pityriasis-rubra-pilaris-11.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-pityriasis-rubra-pilaris-18.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-psoriasis-erythrodermic-33.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-psoriasis-palms-soles-140.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-psoriasis-palms-soles-81.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-psoriasis-palms-soles-88.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-psoriasis-pustular-generalized-1.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-psoriasis-pustular-generalized-26.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-psoriasis-pustular-generalized-5.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-psoriasis-pustular-generalized-57.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-psoriasis-scalp-46.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-psoriasis-scalp-56.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-psoriasis-scalp-60.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-psoriasis-scalp-65.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-reiter-syndrome-8.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-seborrheic-dermatitis-100.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-seborrheic-dermatitis-11.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-seborrheic-dermatitis-117.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-seborrheic-dermatitis-132.jpg
+C:\pycham\Projectjob\master_dataset\Psoriasis\v-seborrheic-dermatitis-137.jpg
+
+----------------------------------------------------------------------
+📁 คลาส: SCC (จำนวน 270 ภาพ)
+----------------------------------------------------------------------
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0012830.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0012853.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0012862.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0013042.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0013067.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0013068.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0013299.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0013347.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0013452.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0013483.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0013504.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0013505.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0013508.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0013509.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0013743.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0013877.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0013954.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0014009.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0014309.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0014356.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0014483.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0014551.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0015388.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0020993.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0021024.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0021036.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0021096.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0021139.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0021303.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0021577.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0021761.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0021856.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0021862.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0021929.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0022224.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0022248.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0022251.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0022443.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0022450.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0022496.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0022946.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0023213.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0023886.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0024009.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0024014.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0024149.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0024159.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0024162.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0024183.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0024231.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0024244.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0024294.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0024517.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0025539.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0026319.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0026872.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0028231.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0029634.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0030549.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0030602.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0031286.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0031874.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0034396.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0034410.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0034427.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0034748.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0034898.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0035376.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0051817.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0053653.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0053903.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0053926.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0054472.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0055112.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0055469.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0056212.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0056611.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0056858.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0056913.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0056925.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0056956.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0057584.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0057678.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0058185.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0058632.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0059152.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0059610.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0059819.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0060182.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0060331.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0060623.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0061016.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0061148.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0061238.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0061240.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0061817.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0062143.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0062347.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0062558.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0062951.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0063144.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0063491.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0063730.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0064267.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0064338.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0064938.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0065491.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0065851.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0065888.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0066030.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0066259.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0066656.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0066695.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0067052.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0067122.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0067260.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0068369.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0068409.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0068556.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0068779.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0068938.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0068956.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0069201.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0069271.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0069539.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0070035.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0070157.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0070234.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0070497.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0070641.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0070704.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0071509.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0072546.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0072599.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0072765.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0073197.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0532254.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0534060.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0547517.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0780574.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0900341.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0905053.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0928112.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0950931.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0984507.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_0987602.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_1113064.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_1267080.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_1309231.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_1388529.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_1482636.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_1518748.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_1790931.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_1795097.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_1934403.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_1997620.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_1999829.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_2136197.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_2273572.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_2378919.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_2384908.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_2387381.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_2408893.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_2439000.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_2563344.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_2758033.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_2806073.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_2829762.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_2902367.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_2906273.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_3005303.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_3053495.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_3124231.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_3342666.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_3429549.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_3480611.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_3542359.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_3560179.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_3627147.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_3644578.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_3751292.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_3831348.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_3887050.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_3910283.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_3933736.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_4025784.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_4342651.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_4647126.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_4668910.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_4700100.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_4716765.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_4820306.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_4848137.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_4932799.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_5042080.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_5059174.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_5115393.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_5209351.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_5214169.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_5243502.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_5291973.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_5366444.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_5565529.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_5584967.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_5833213.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_5902846.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_5993206.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_6085014.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_6094288.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_6110952.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_6135860.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_6161217.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_6327820.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_6335505.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_6353167.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_6376654.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_6463451.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_6522776.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_6555872.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_6594675.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_6782350.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_6888436.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_6923883.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_6938390.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_6970728.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_6986529.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_6989179.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_7001887.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_7026299.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_7059546.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_7145117.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_7156304.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_7210586.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_7221222.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_7259000.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_7283446.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_7381608.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_7395651.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_7499217.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_7604705.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_7896976.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_8050539.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_8108246.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_8175420.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_8223761.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_8339912.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_8386743.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_8412135.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_8431081.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_8516079.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_8542319.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_8563463.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_8619763.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_8660310.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_8762355.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_8899671.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_8954558.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_9036239.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_9100704.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_9163137.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_9301982.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_9326688.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_9420991.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_9452889.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_9560618.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_9579567.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_9683541.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_9915241.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_9918302.jpg
+C:\pycham\Projectjob\master_dataset\SCC\ISIC_9934612.jpg
+
+----------------------------------------------------------------------
+📁 คลาส: Tinea (จำนวน 270 ภาพ)
+----------------------------------------------------------------------
+C:\pycham\Projectjob\master_dataset\Tinea\0_7.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\3_4.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\3_6.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\4_32.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\4_33.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\4_60.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\4_63.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\6_26.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\6_3.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\6_37.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\7_9.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\8_0.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\8_21.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (101).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (103).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (115).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (125).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (134).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (139).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (144).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (145).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (149).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (150).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (156).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (169).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (172).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (173).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (177).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (180).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (181).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (186).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (198).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (29).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (32).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (41).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (44).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (47).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (50).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (56).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (59).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (61).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (65).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (8).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (88).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (89).png
+C:\pycham\Projectjob\master_dataset\Tinea\Pasted image (96).png
+C:\pycham\Projectjob\master_dataset\Tinea\t-13CandidaVulva072103.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-13IntertrigoPenis3.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-13candidaGranuloma9653-GP3.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-13intertrigo121905.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-13intertrigo1219052.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-13intertrigoBreast0519.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-13perleche0102061.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candida-groin-10.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candida-groin-16.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candida-penis-10.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candida-penis-13.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candida-penis-28.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candida-penis-34.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candida-penis-37.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candida-penis-40.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candida-penis-47.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candidiasis-diaper-14.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candidiasis-diaper-16.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candidiasis-diaper-18.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candidiasis-diaper-2.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candidiasis-diaper-26.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candidiasis-diaper-31.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candidiasis-large-skin-folds-11.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candidiasis-large-skin-folds-113.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candidiasis-large-skin-folds-130.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candidiasis-large-skin-folds-134.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candidiasis-large-skin-folds-135.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candidiasis-large-skin-folds-154.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candidiasis-large-skin-folds-170.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candidiasis-large-skin-folds-180.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candidiasis-large-skin-folds-182.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candidiasis-large-skin-folds-97.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candidiasis-mouth-16.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-candidiasis-vaginal-4.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-erosio-interdigitalis-blastomycetica-30.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-erosio-interdigitalis-blastomycetica-9.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-erythrasma-2.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-intertrigo-15.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-intertrigo-16.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-intertrigo-18.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-intertrigo-22.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-intertrigo-31.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-intertrigo-32.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-intertrigo-43.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-intertrigo-51.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-intertrigo-58.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-intertrigo-6.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-intertrigo-65.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-intertrigo-73.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-intertrigo-85.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-kerion-19.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-majocchi-granuloma-10.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-majocchi-granuloma-11.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-perleche-25.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-perleche-32.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-perleche-35.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-perleche-39.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-perleche-46.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-perleche-50.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-perleche-786.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-perleche-9.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-beard-15.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-beard-9.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-body-106.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-body-11.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-body-125.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-body-147.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-body-155.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-body-165.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-body-193.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-body-195.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-body-81.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-body-94.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-body-99.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-border-5.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-face-15.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-face-42.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-face-61.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-face-63.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-face-8.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-foot-dorsum-22.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-foot-dorsum-32.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-foot-dorsum-36.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-foot-dorsum-37.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-foot-dorsum-4.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-foot-dorsum-58.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-foot-plantar-25.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-foot-plantar-27.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-foot-plantar-52.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-foot-plantar-8.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-foot-webs-12.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-foot-webs-14.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-foot-webs-18.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-foot-webs-40.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-foot-webs-42.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-foot-webs-50.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-foot-webs-53.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-foot-webs-6.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-foot-webs-69.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-groin-106.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-groin-116.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-groin-125.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-groin-126.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-groin-27.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-groin-32.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-groin-36.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-groin-42.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-groin-52.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-groin-66.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-groin-76.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-groin-78.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-groin-79.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-groin-85.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-groin-96.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-groin-98.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-hand-dorsum-13.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-hand-dorsum-16.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-hand-dorsum-35.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-hand-dorsum-4.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-hand-dorsum-5.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-hand-dorsum-51.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-hand-dorsum-61.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-hand-dorsum-64.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-incognito-24.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-incognito-25.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-incognito-30.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-incognito-31.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-laboratory-12.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-laboratory-13.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-laboratory-15.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-laboratory-4.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-laboratory-40.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-laboratory-41.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-laboratory-45.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-laboratory-50.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-laboratory-58.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-laboratory-59.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-laboratory-63.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-laboratory-68.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-laboratory-72.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-nigra-1.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-palm-23.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-palm-43.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-palm-5.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-primary-lesion-23.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-primary-lesion-24.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-primary-lesion-32.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-primary-lesion-38.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-primary-lesion-39.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-primary-lesion-42.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-primary-lesion-45.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-primary-lesion-50.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-primary-lesion-54.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-primary-lesion-64.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-primary-lesion-7.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-scalp-15.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-scalp-17.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-scalp-39.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-scalp-52.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-scalp-56.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-scalp-67.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-scalp-70.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-103.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-104.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-107.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-111.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-12.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-120.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-126.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-138.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-144.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-145.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-146.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-15.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-16.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-161.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-162.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-163.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-165.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-170.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-18.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-19.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-194.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\t-tinea-versicolor-91.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-candida-groin-2.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-candida-penis-53.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-candidiasis-diaper-10.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-candidiasis-large-skin-folds-101.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-candidiasis-large-skin-folds-106.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-candidiasis-large-skin-folds-123.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-candidiasis-large-skin-folds-160.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-coccidiomycosis-4.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-confluent-reticulate-papillomatosis-5.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-intertrigo-48.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-kerion-12.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-majocchi-granuloma-2.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-beard-2.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-body-100.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-body-152.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-body-82.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-face-5.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-foot-dorsum-25.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-foot-dorsum-28.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-foot-dorsum-57.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-foot-dorsum-59.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-foot-plantar-30.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-foot-webs-48.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-foot-webs-49.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-foot-webs-51.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-foot-webs-65.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-groin-54.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-hand-dorsum-29.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-incognito-27.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-incognito-41.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-incognito-54.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-laboratory-17.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-laboratory-33.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-primary-lesion-55.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-scalp-5.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-scalp-66.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-scalp-8.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-versicolor-106.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-versicolor-169.jpg
+C:\pycham\Projectjob\master_dataset\Tinea\v-tinea-versicolor-87.jpg
+
